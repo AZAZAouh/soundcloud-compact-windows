@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">SoundCloud Compact for Windows</title>
+  <desc id="desc">Illustrative layout: a compact interface fits more cards and keeps volume accessible. Not an application screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191b20"/><stop offset="1" stop-color="#0b0c0f"/></linearGradient>
+    <linearGradient id="tile" x2="1" y2="1"><stop stop-color="#403d48"/><stop offset="1" stop-color="#22242c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="510" rx="22" fill="url(#bg)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="38" y="35" width="5" height="38" rx="2" fill="#ff6500"/>
+    <text x="58" y="62" fill="#f6f6f7" font-size="29" font-weight="700">SoundCloud Compact</text>
+    <text x="58" y="91" fill="#a4a8b3" font-size="16">Windows · Hermes HBC96 · Reproducible local patches</text>
+    <text x="45" y="137" fill="#a4a8b3" font-size="14" letter-spacing="2">DEFAULT DENSITY</text>
+    <text x="639" y="137" fill="#ff9b59" font-size="14" letter-spacing="2">COMPACT DENSITY</text>
+    <g stroke="#363943" fill="#101115">
+      <rect x="38" y="152" width="535" height="270" rx="12"/>
+      <rect x="628" y="152" width="535" height="270" rx="12"/>
+    </g>
+    <g fill="#23252d">
+      <rect x="53" y="177" width="38" height="38" rx="7"/>
+      <rect x="53" y="229" width="38" height="38" rx="7"/>
+      <rect x="53" y="281" width="38" height="38" rx="7"/>
+      <rect x="642" y="177" width="30" height="30" rx="6"/>
+      <rect x="642" y="219" width="30" height="30" rx="6"/>
+      <rect x="642" y="261" width="30" height="30" rx="6"/>
+    </g>
+    <g fill="url(#tile)">
+      <rect x="116" y="210" width="126" height="126" rx="10"/>
+      <rect x="267" y="210" width="126" height="126" rx="10"/>
+      <rect x="418" y="210" width="126" height="126" rx="10"/>
+      <rect x="692" y="200" width="98" height="98" rx="8"/>
+      <rect x="810" y="200" width="98" height="98" rx="8"/>
+      <rect x="928" y="200" width="98" height="98" rx="8"/>
+      <rect x="1046" y="200" width="98" height="98" rx="8"/>
+      <rect x="692" y="348" width="98" height="58" rx="8"/>
+      <rect x="810" y="348" width="98" height="58" rx="8"/>
+      <rect x="928" y="348" width="98" height="58" rx="8"/>
+      <rect x="1046" y="348" width="98" height="58" rx="8"/>
+    </g>
+    <g fill="#858a98">
+      <rect x="116" y="181" width="170" height="9" rx="4"/>
+      <rect x="116" y="351" width="99" height="8" rx="4"/>
+      <rect x="267" y="351" width="99" height="8" rx="4"/>
+      <rect x="418" y="351" width="99" height="8" rx="4"/>
+      <rect x="692" y="179" width="136" height="7" rx="3"/>
+      <rect x="692" y="311" width="77" height="6" rx="3"/>
+      <rect x="810" y="311" width="77" height="6" rx="3"/>
+      <rect x="928" y="311" width="77" height="6" rx="3"/>
+      <rect x="1046" y="311" width="77" height="6" rx="3"/>
+    </g>
+    <path d="M657 396V326" stroke="#ff6500" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="657" cy="343" r="5" fill="#fff"/>
+    <rect x="482" y="377" width="64" height="24" rx="12" fill="#252730"/>
+    <text x="514" y="394" text-anchor="middle" fill="#b5b8c3" font-size="12">100%</text>
+    <rect x="1077" y="376" width="66" height="24" rx="12" fill="#ff6500"/>
+    <text x="1110" y="393" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">~80%</text>
+    <text x="40" y="461" fill="#f6f6f7" font-size="16">Persistent volume</text>
+    <text x="310" y="461" fill="#a4a8b3" font-size="16">Version-locked validation</text>
+    <text x="650" y="461" fill="#a4a8b3" font-size="16">Separate UWP identity</text>
+    <text x="972" y="461" fill="#a4a8b3" font-size="16">Reversible setup</text>
+    <text x="40" y="489" fill="#666d7e" font-size="12">ILLUSTRATIVE SCHEMATIC · NO APPLICATION ASSETS</text>
+  </g>
+</svg>
